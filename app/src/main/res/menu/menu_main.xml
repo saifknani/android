@@ -1,0 +1,46 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="epi.gl4b.project.MainActivity">
+    <item
+        android:id="@+id/exit"
+        android:orderInCategory="100"
+        android:title="@string/exit"
+        android:visible="true"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/map"
+
+        android:title="@string/map" />
+    <item
+        android:id="@+id/appel"
+        android:icon="@android:drawable/stat_sys_phone_call_forward"
+        android:title="@string/app">
+        <menu>
+            <item
+                android:id="@+id/apn"
+                android:icon="@android:drawable/stat_sys_phone_call_forward"
+                android:title="@string/nrl" />
+            <item
+                android:id="@+id/apu"
+                android:icon="@android:drawable/stat_sys_vp_phone_call_on_hold"
+                android:title="@string/urg" />
+        </menu>
+    </item>
+    <item android:title="Réserver">
+        <menu>
+            <item
+                android:id="@+id/ticket"
+                android:title="Ticket" />
+            <item
+                android:id="@+id/hebergement"
+                android:title="Hebergement" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/conv"
+        android:title="convertisseur" />
+    <item
+        android:id="@+id/calendrier"
+        android:title="Calendrier" />
+</menu>

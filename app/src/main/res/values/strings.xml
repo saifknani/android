@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Project </string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Welcome</string>
+    <string name="second_fragment_label">Welcome</string>
+    <string name="next">Next</string>
+    <string name="phone_number">198</string>
+
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="bnt_tun"> Welcome to TUNISIA</string>
+    <string name="num">write your number</string>
+    <string name="sum">submit</string>
+    <string name="conv">Convert</string>
+    <string name="echa">Exchange money</string>
+    <string name="res">Book your accommodation</string>
+    <string name="chos">choose your place</string>
+    <string name="ach">Buy</string>
+    <string name="star">Star Trek Discovery</string>
+    <string name="time">Its Our Time</string>
+    <string name="date">May 31st  - June30th</string>
+    <string name="map">Map</string>
+    <string name="app">Call</string>
+    <string name="nrl">standard call</string>
+    <string name="urg">emergency call</string>
+    <string name="exit">Exit</string>
+
+
+
+</resources>

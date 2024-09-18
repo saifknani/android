@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">projet</string>
+    <string name="first_fragment_label">Bienvenue</string>
+    <string name="bnt_tun">Bienvenue en TUNISIE</string>
+    <string name="num">Ecrire ton numéro</string>
+    <string name="sum">Confirmer</string>
+    <string name="conv">convertir</string>
+    <string name="echa">Monnaie déchange</string>
+    <string name="res">Réservez votre logement</string>
+    <string name="chos">choisissez votre endroit</string>
+    <string name="ach">Acheter</string>
+    <string name="star">Découverte de Star Trek</string>
+    <string name="time">Cest notre temps</string>
+    <string name="date">31 mai - 30 juin</string>
+    <string name="second_fragment_label">Bienvenue</string>
+    <string name="map">Carte</string>
+    <string name="app">Appel</string>
+    <string name="nrl">appel normal</string>
+    <string name="urg">appel urgence</string>
+    <string name="exit">sortir</string>
+    <string name="title_activity_maps">Carte</string>
+
+</resources>
